@@ -4,15 +4,15 @@ Finished file location: ETL_Mini_Project_Starter_Code_ARelvinhas_RBranch_Final.i
 
 ## ETL Outline
 
-# Created Category DataFrame
+ Created Category DataFrame
 
-# Created Subcategory DataFrame
+ Created Subcategory DataFrame
 
-# Created Campaign DataFrame
+ Created Campaign DataFrame
 
-# Created Contacts DataFrame
+ Created Contacts DataFrame
 
-# Exported .csv files to PostgreSql and constructed an ERD
+ Exported .csv files to PostgreSql and constructed an ERD
 
 # Summary
 Pulling useful data from large public files is important to data analysts in order to make large datasets more manageable for analysis.
