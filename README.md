@@ -2,7 +2,7 @@
 
 Finished file location: ETL_Mini_Project_Starter_Code_ARelvinhas_RBranch_Final.ipynb
 
-# ETL Outline
+## ETL Outline
 
 # Created Category DataFrame
 
