@@ -1,6 +1,7 @@
 # Crowdfunding_ETL
 
-Extract, Transform and Load (ETL)
+Finished file location: ETL_Mini_Project_Starter_Code_ARelvinhas_RBranch_Final.ipynb
+
 
 # Sources 
 contacts.xlsx
